@@ -1,0 +1,2 @@
+question #1: Why do computers use binary numbers?
+answer:It is easier to build electronic devices reliably if they only have to distinguish between two electric states.

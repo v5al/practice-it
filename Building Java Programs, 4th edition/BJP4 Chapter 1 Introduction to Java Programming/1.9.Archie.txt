@@ -1,0 +1,4 @@
+name    age     height
+Archie  17      5'9"
+Betty   17      5'6"
+Jughead 16      6'

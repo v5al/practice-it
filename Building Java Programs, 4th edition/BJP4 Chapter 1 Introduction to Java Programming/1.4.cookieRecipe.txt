@@ -1,0 +1,9 @@
+step1 : start the algorithm
+step2 : buy an ingredient to make cookies
+step3 : mix the flour
+step4 : leave it for 30 minutes
+step5 : cut them in a shape
+step6 : put them in the machine
+step7 : wait for 30 minutes
+step8 : ready to serve
+step9 : end the algorithm
